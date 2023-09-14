@@ -1,0 +1,4 @@
+Nama    : Raka
+Kelas   : XII
+Jurusan : RPL
+Hobi    : Ngoding
